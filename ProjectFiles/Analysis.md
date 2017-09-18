@@ -1,4 +1,9 @@
 # Feasability Analysis
+## Description
+- Social Link - All social media and/or email/phone number in one place to instanty share information between people (QC code/NFC/RFID Communication)
+- Social & Professional lists to choose between depending on what you would like to share.
+- Create a profile with a picture and necessary information
+-----
 ## Identify position in the value chain
 - Major Primary Activities
   - Service
@@ -26,3 +31,4 @@
 ## Develop the competitive advantage: differentiation, niche, and access
 - Makes it easier to share your information
 ## Test the model through feasibility analysis
+
