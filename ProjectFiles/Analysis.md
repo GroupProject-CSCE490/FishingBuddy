@@ -34,6 +34,7 @@
 
 ## Develop the competitive advantage: differentiation, niche, and access
 - Makes it easier to share your information
+- Allows recruiters and job seekers to more easily connect/share information
 
 ## Test the model through feasibility analysis
 
